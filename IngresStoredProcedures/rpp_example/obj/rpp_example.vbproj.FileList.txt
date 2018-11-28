@@ -1,0 +1,12 @@
+bin\Debug\rpp_example.exe
+bin\Debug\rpp_example.pdb
+bin\Debug\rpp_example.xml
+bin\Debug\Ingres.Support.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\rpp_example.Form1.resources
+obj\Debug\rpp_example.Resources.resources
+obj\Debug\rpp_example.vbproj.GenerateResource.Cache
+obj\Debug\rpp_example.exe
+obj\Debug\rpp_example.xml
+obj\Debug\rpp_example.pdb
+bin\Debug\rpp_example.exe.config
